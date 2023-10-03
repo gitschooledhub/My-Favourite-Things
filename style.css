@@ -1,0 +1,24 @@
+html {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+body {
+  margin: 50px auto;
+  text-align: center;
+}
+
+.Danganronpa {
+  color: rgb(250, 79, 159);
+}
+
+.One_Piece {
+  color: rgb(100, 201, 226);
+}
+
+.Psychology {
+  color: rgb(158, 37, 37);
+}
